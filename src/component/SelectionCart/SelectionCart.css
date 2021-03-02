@@ -1,0 +1,15 @@
+body{
+    position: fixed;
+}
+.addedPlayer{
+    color: lightslategray;
+    font: 400;
+    font-family:'Times New Roman', Times, serif ;
+}
+td{
+    color: gray;
+   
+}
+table{
+    padding: 4px;
+}

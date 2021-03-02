@@ -1,0 +1,10 @@
+.container{
+    display: flex;
+  }
+  .player-container{
+    width:70%;
+  }
+  h4{
+    color: navy;
+    font-size: large;
+  }
